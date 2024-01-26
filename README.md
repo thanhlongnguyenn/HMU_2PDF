@@ -22,7 +22,7 @@ To set up HMU_2PDF on your system, follow these steps:
 ```
 3. Navigate to the cloned directory:
 ```
-cd HMU_2PDF
+  cd HMU_2PDF
 ```
 4. Install the required dependencies:
 ```
